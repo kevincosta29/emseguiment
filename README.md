@@ -15,7 +15,9 @@
 [![Node](https://img.shields.io/badge/Node-14.17.6-brown?style=flat-square)](https://img.shields.io/badge/Node-14.17.6-brown?style=flat-square)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0.26-yellow?style=flat-square)](https://img.shields.io/badge/MySQL-8.0.26-Blue?style=flat-square)
 
-EM Seguiment is a platform for iOS, Android and Web to help medical teams to improve the health care of their patients.
+EM Seguiment is a platform for **[iOS](https://apps.apple.com/es/app/seguiment-medicació/1565156695)**, **[Android](https://play.google.com/store/apps/details?id=org.idibgi.emseguiment&hl=en)** and Web to help medical teams to improve the health care of their patients.
+
+[University Hospital of Girona Dr. Josep Trueta](https://icsgirona.cat/ca/hospitaltruet)
 
 - [Introduction](#introduction)
 - [Platforms](#platforms)
@@ -39,7 +41,7 @@ Nowadays, this project is ready to deploy in the servers of **[Girona Biomedical
 
 EM Seguiment is a platform that is based in three different fields.
 
-### Mobile platform (iOS and Android)
+### Mobile platform ([iOS](https://apps.apple.com/es/app/seguiment-medicació/1565156695) and [Android](https://play.google.com/store/apps/details?id=org.idibgi.emseguiment&hl=en))
 
 A mobile application, only for patients, developed with Swift 5 and Kotlin. Implements different library to add more feature like push notifications with [OneSignal](https://onesignal.com), [Flurry](https://www.flurry.com) (to track the user interaction with the application), [Lottie](https://lottiefiles.com) for animations and among others. Using an API, you can send and retrieve data from the backend. The minium **SDK for Android is 23** and the minium **iOS version is 12.0**.
 
@@ -87,9 +89,9 @@ This the of the used technology depend of the platform. There are some library t
 | OneSignal | OneSignal | Node 14.17.6 | JWT |
 | Flurry | Flurry | TypeScript | Thymeleaf |
 | Lottie | Lottie | HTML | MVC |
-| MVC | CocoaPods | CSS | MySQL |
+| MVVM | CocoaPods | CSS | MySQL |
 | DB Room | CoreData |  | SSL Certificate |
-|  | MVC | | |
+|  | MVVM | | |
 
 ## Screenshots
 
@@ -106,4 +108,4 @@ Quick demo of Web Application and iOS and the functionality in [YouTube](https:/
 [![Demo app](readme-resources/cover_web.png)](https://youtu.be/oJqA9zT5YSA)
 
 
-**Copyright © 2021 Kevin Costa. All rights reserved.**
+**Copyright © Kevin Costa. All rights reserved.**
