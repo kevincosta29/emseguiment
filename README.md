@@ -108,4 +108,4 @@ Quick demo of Web Application and iOS and the functionality in [YouTube](https:/
 [![Demo app](readme-resources/cover_web.png)](https://youtu.be/oJqA9zT5YSA)
 
 
-**Copyright © Kevin Costa. All rights reserved.**
+**Copyright © [Kevin Costa](https://www.linkedin.com/in/kevin-costa-jara/). All rights reserved.**
